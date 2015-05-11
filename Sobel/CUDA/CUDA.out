@@ -1,0 +1,33 @@
+
+
+GPU time = 0.413895
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@gpu02>
+Subject: Job 3001586: <./Sobel> in cluster <umghpcc> Done
+
+Job <./Sobel> was submitted from host <ghpcc06> by user <dg85l> in cluster <umghpcc>.
+Job was executed on host(s) <gpu02>, in queue <gpu>, as user <dg85l> in cluster <umghpcc>.
+</home/dg85l> was used as the home directory.
+</home/dg85l/ParallelProject/CUDA> was used as the working directory.
+Started at Wed Apr 29 00:23:27 2015
+Results reported at Wed Apr 29 00:23:27 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./Sobel
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :               0.48 sec.
+    Total Requested Memory : 1024.00 MB
+    Delta Memory :           -
+    (Delta: the difference between total requested memory and actual max usage.)
+
+The output (if any) is above this job summary.
+
